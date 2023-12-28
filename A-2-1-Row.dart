@@ -19,7 +19,7 @@ class _MainPageState extends State<MainPage> {
             Container(width: 100, height: 95, color: Colors.purple),
             Container(width: 90, height: 75, color: Colors.green),
             Container(width: 60, height: 70, color: Colors.blueAccent),
-            const Text("Three rows"),
+            const Text("Three shapes"),
           ],
         ));
   }
