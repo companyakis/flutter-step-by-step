@@ -10,7 +10,7 @@ class TabletDesign extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
         child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
-      Image.asset("images/stevejobs@3x.png"), //bigger picture!
+      Image.asset("images/stevejobs@2x.png"), //bigger picture!
       const Text("Apple and Steve jobs", style: TextStyle(fontSize: 32)),
     ]));
   }
