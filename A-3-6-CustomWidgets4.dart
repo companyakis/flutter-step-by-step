@@ -8,7 +8,7 @@ class Greeting extends StatelessWidget {
   String ourGreeting;
   double ourFontSize;
 
-  Greeting(this.ourGreeting, this.ourFontSize);
+  Greeting({required this.ourGreeting, required this.ourFontSize});
 
   @override
   Widget build(BuildContext context) {
