@@ -35,7 +35,7 @@ class _MainPageState extends State<MainPage> {
               color: Colors.greenAccent),
           Text(
             "Hi there",
-            style: TextStyle(fontSize: screenWidth / 8),
+            style: TextStyle(fontSize: screenWidth / 10),
           ),
         ],
       ),
